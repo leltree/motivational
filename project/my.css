@@ -1,0 +1,18 @@
+html{
+    background-color: black;
+}
+.motif{
+    text-align: center;
+    /* border: 2px solid whitesmoke; */
+}
+img{
+    border: 5px solid rgb(117, 57, 117);
+}
+.rabbit{
+    color: rgb(83, 62, 103);
+    text-align: center;
+}
+.golden-words{
+    color:antiquewhite;
+    text-align: center;
+}
